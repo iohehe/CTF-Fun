@@ -1,3 +1,3 @@
 # CTF-Fun
 
-In Issues
+[CTFs](https://github.com/iohehe/CTF-Fun/issues)
